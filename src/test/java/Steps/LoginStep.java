@@ -33,8 +33,11 @@ public class LoginStep extends BaseUtil {
     public void iNavigateToTheLoginPage() {
     }
 
-    @Given("^I navigate to the login page$")
+    @Given("^I navigate to the login page2$")
     public void iNavigateToTheLoginPage2() {
+    }
+    @Given("^I navigate to the login page3$")
+    public void iNavigateToTheLoginPage3() {
     }
 
     @And("^I enter the username as admin and password as admit$")
